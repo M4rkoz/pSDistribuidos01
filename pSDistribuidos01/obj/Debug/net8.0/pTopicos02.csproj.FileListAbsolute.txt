@@ -1,0 +1,14 @@
+D:\projects\c#\pTopicos02\pTopicos02\bin\Debug\net8.0\pTopicos02.exe
+D:\projects\c#\pTopicos02\pTopicos02\bin\Debug\net8.0\pTopicos02.deps.json
+D:\projects\c#\pTopicos02\pTopicos02\bin\Debug\net8.0\pTopicos02.runtimeconfig.json
+D:\projects\c#\pTopicos02\pTopicos02\bin\Debug\net8.0\pTopicos02.dll
+D:\projects\c#\pTopicos02\pTopicos02\bin\Debug\net8.0\pTopicos02.pdb
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.AssemblyInfoInputs.cache
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.AssemblyInfo.cs
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.csproj.CoreCompileInputs.cache
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.dll
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\refint\pTopicos02.dll
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.pdb
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\pTopicos02.genruntimeconfig.cache
+D:\projects\c#\pTopicos02\pTopicos02\obj\Debug\net8.0\ref\pTopicos02.dll
